@@ -22,21 +22,26 @@ the engine moves here once they are.
 | Step | State |
 | --- | --- |
 | One manifest contract for Flavian, Aurelius and Vespasian | Done ([Flavian #196](https://github.com/PMDevSolutions/Flavian/pull/196)) |
-| Vespasian's Wix-site screen in the shared engine | To do |
-| Aurelius's additions and a generic step runner | To do |
-| Product-neutral transport and build identity | To do |
-| The engine moves to this repository; Aurelius and Vespasian adopt it | To do |
-| Choosing a product at run time, and starting a new project from a template | To do ([Flavian #188](https://github.com/PMDevSolutions/Flavian/issues/188)) |
-| Nerva and Claudius manifests | To do ([Nerva #140](https://github.com/PMDevSolutions/Nerva/issues/140), [Claudius #169](https://github.com/PMDevSolutions/Claudius/issues/169)) |
+| Vespasian's Wix-site screen in the shared engine | To do ([#2](https://github.com/PMDevSolutions/Trajan/issues/2)) |
+| Aurelius's additions and a generic step runner | To do ([#2](https://github.com/PMDevSolutions/Trajan/issues/2)) |
+| Product-neutral transport and build identity | To do ([#2](https://github.com/PMDevSolutions/Trajan/issues/2)) |
+| The engine moves to this repository; Aurelius and Vespasian adopt it | To do ([#2](https://github.com/PMDevSolutions/Trajan/issues/2), [#4](https://github.com/PMDevSolutions/Trajan/issues/4)) |
+| Choosing a product at run time, and starting a new project from a template | To do ([#3](https://github.com/PMDevSolutions/Trajan/issues/3)) |
+| Nerva and Claudius manifests | To do ([#5](https://github.com/PMDevSolutions/Trajan/issues/5), [#6](https://github.com/PMDevSolutions/Trajan/issues/6)) |
 
 ## Where the work happens until then
 
-- The epic: [Flavian #186](https://github.com/PMDevSolutions/Flavian/issues/186)
-- The engine work: [Flavian #187](https://github.com/PMDevSolutions/Flavian/issues/187), with its
+The issues are tracked here. The code stays in Flavian until the engine moves, so pull requests for the
+engine are opened in Flavian and say "Part of PMDevSolutions/Trajan#2".
+
+- The epic: [#1](https://github.com/PMDevSolutions/Trajan/issues/1)
+- The engine work: [#2](https://github.com/PMDevSolutions/Trajan/issues/2), with its
   [design](https://github.com/PMDevSolutions/Flavian/blob/main/docs/plans/2026-11-08-trajan-engine-reconciliation-design.md)
   and [plan](https://github.com/PMDevSolutions/Flavian/blob/main/docs/plans/2026-11-08-trajan-engine-reconciliation-plan.md)
+  in Flavian
 - How the engine, the manifests and the panels fit together:
   [`GUI-PLATFORM.md`](https://github.com/PMDevSolutions/Flavian/blob/main/packages/gui/docs/GUI-PLATFORM.md)
+- [Every open issue](https://github.com/PMDevSolutions/Trajan/issues)
 
 ## If you want the desktop app today
 
